@@ -16,7 +16,7 @@ Use this homepage to learn more about what Horiseon can provide your business:
 
 The benefits of these products include:
 
-```python
+```bash
 - Lead Generation
 - Brand Awareness
 - Cost Management
@@ -25,11 +25,11 @@ The benefits of these products include:
 ## Questions?
 
 If you have any questions about Horiseon, please contact:
-```bash
+```python
 Horiseon Social Solution Services, Inc.
 ```
 If you have any questions about this website, please contact:
-```bash
+```python
 Asher Bergtraun
 ```
 ## Copywright
